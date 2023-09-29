@@ -1,3 +1,3 @@
 # abc
 This is my repository
-Author - Gaurav
+Author - Gaurav Hiwarale
